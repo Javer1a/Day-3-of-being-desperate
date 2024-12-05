@@ -19,11 +19,17 @@
         h1 {
             color: #ff69b4;
             font-size: 2.5em;
+            text-shadow: 1px 1px 2px #000;
         }
         p {
             color: #555;
             font-size: 1.2em;
             margin: 20px 0;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
     </style>
 </head>
